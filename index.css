@@ -1,0 +1,413 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header1{
+position: absolute;
+width: 1350px;
+height: 192px;
+background: #D9D9D9;
+}
+.logo{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 30px;
+top: 11px;
+border-radius: 100%;
+background: #000000;
+overflow: hidden;
+}
+.headlogo{
+    width: 100%;
+    height: 100%;
+}
+.bruh{
+position: absolute;
+width: 115px;
+height: 23px;
+left: 191px;
+top: 141px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+ul{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    width: 115px;
+    height: 23px;
+    left: 191px;
+    top: 120px;
+}
+.a_1{
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+padding: 10px;
+border-radius: 10px;
+color: #000000;
+}
+li{
+margin-right: 50px;
+}
+.a_1:hover{
+background: silver;
+}
+.search{
+    position: absolute;
+    width: 369px;
+    height: 46px;
+    left: 940px;
+    top: 43px;
+    }
+.line{
+position: absolute;
+width: 1350px;
+height: 0px;
+left: 0px;
+top: 122px;
+border: 1px solid #000000;
+}
+.search2{
+    position: absolute;
+    width: 127px;
+    height: 40px;
+    left: 1156px;
+    top: 33px;
+    background: #FB5D5D;
+    border-radius: 50px;
+    }
+.btn{
+background-color: #FB5D5D;
+padding: 8px;
+border-radius: 20px;
+}
+
+
+.block1{
+position: absolute;
+width: 1350px;
+height: 276px;
+left: 0px;
+top: 192px;
+background: #A0FC89;
+}
+.block2{
+position: absolute;
+width: 227px;
+height: 362px;
+left: 238px;
+top: 287px;
+background: #D9D9D9;
+box-shadow: 0px 10px 9px 6px rgba(0, 0, 0, 0.25);
+}
+.block3{
+position: absolute;
+width: 227px;
+height: 362px;
+left: 616px;
+top: 287px;
+background: #D9D9D9;
+box-shadow: 0px 10px 9px 6px rgba(0, 0, 0, 0.25);
+}
+.block4{
+position: absolute;
+width: 227px;
+height: 362px;
+left: 993px;
+top: 287px;
+background: #D9D9D9;
+box-shadow: 0px 10px 9px 6px rgba(0, 0, 0, 0.25);
+}
+.block5{
+position: absolute;
+width: 170px;
+height: 54px;
+left: 267px;
+top: 550px;
+background: #4FFF32;
+border-radius: 50px;
+}
+.block6{
+position: absolute;
+width: 170px;
+height: 54px;
+left: 644px;
+top: 550px;
+background: #4FFF32;
+border-radius: 50px;
+}
+.block7{
+position: absolute;
+width: 170px;
+height: 54px;
+left: 1022px;
+top: 550px;
+background: #4FFF32;
+border-radius: 50px;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}
+.block8{
+position: absolute;
+width: 170px;
+height: 196px;
+left: 267px;
+top: 320px;
+background-image: url(https://wikiway.com/upload/uf/964/Sherwood-Exclusive-Kemer-_-Kids-Concept-1.jpg);
+}
+.block9{
+position: absolute;
+width: 170px;
+height: 196px;
+left: 644px;
+top: 320px;
+background-image: url(https://travelask.ru/system/images/files/001/259/758/wysiwyg/unnamed.jpg?1548155986);
+}
+.block0{
+position: absolute;
+width: 170px;
+height: 196px;
+left: 1022px;
+top: 320px;
+background-image:url(https://avatars.mds.yandex.net/i?id=2a0000017a1216643b61d6d2f109ee12fb7d-4120950-images-thumbs&n=13);
+}
+.p{
+position: absolute;
+width: 89px;
+height: 30px;
+left: 309px;
+top: 542px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+}
+.p2{
+position: absolute;
+width: 75px;
+height: 30px;
+left: 691px;
+top: 542px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+}
+.p3{
+position: absolute;
+width: 116px;
+height: 30px;
+left: 1055px;
+top: 542px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+color: #000000;
+}
+.f_1{
+    position: absolute;
+    margin-top: 1300px;
+    background-color: #000000;
+    width: 100%;
+    height: 600px;
+}
+.logo{
+background-image: url();    
+}
+.imglogo{
+    width: 100px;
+    height: 100px;
+}
+.cart{
+    padding-left: 400px;
+    padding-top: 40px;
+}
+.logos{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+/* для контакта */
+
+.contact{
+    position: absolute;
+    top: 260px;
+    left: 400px;
+}
+.i_1{
+    padding: 10px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 3px 0 black;
+    margin: 10px;
+}
+
+.knopka{
+    position: absolute;
+    margin-left: 210px;
+    color: rgb(47, 255, 245);
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 10px;
+    border-radius: 10px; 
+}
+.knopka:hover{
+    background: #000000;
+}
+.Names{
+    position: absolute;
+    margin-left: 230px;
+    color: blue;
+}
+/* slick */
+.rev{
+    position: absolute;
+    top: 1300px;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+} 
+/* adaptacia */
+
+@media all and (max-width:600px){
+    ul{
+        flex-direction: column;
+        position: absolute;
+        left: 120px;
+    }
+}
+
+@media all and (max-width:600px){
+    .search{
+        position: absolute;
+        width: 369px;
+        height: 46px;
+        left: 940px;
+        top: 43px;
+        }
+        .logo{
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            left: 30px;
+            top: 11px;
+            border-radius: 100%;
+            background: #000000;
+            overflow: hidden;
+            }
+            .header1{
+                position: absolute;
+                height: 260px;
+                background: #D9D9D9;
+                }
+    .search2{
+width: 100px;
+height: 30px;
+    }
+    .block1{
+        position: absolute;
+        top: 240px;
+        background: #A0FC89;
+        }
+        .block2{
+            position: absolute;
+            left: 40px;
+            top: 260px;
+            }
+            .block3{
+                position: absolute;
+                top: 660px;
+                }
+            .block5{
+                position: absolute;
+                left: 100px;
+                top: 690px;
+                }
+                .p{
+                    position: absolute;
+                    width: 89px;
+                    height: 30px;
+                    left: 110px;
+                    top: 520px;
+                    }
+                .block5{
+                position: absolute;
+                left: 70px;
+                top: 530px;
+                background: #4FFF32;
+                border-radius: 50px;
+                }
+                .block8{
+                    position: absolute;
+                    left: 70px;
+                    top: 290px;
+                }
+                .cart{
+                    padding-left: 0px;
+                    padding-top: 40px;
+                }
+                .f_1{
+                    position: absolute;
+                    margin-top: 1300px;
+                    background-color: #000000;
+                    width: 100%;
+                    height: 600px;
+                }
+                .block9{
+                    position: absolute;
+                    left: 340px;
+                    top: 290px;
+                    }
+                    .block3{
+                        position: absolute;
+                        left: 310px;
+                        top: 260px;
+                        background: #D9D9D9;
+                        box-shadow: 0px 10px 9px 6px rgba(0, 0, 0, 0.25);
+}
+.block6{
+    position: absolute;
+    left: 340px;
+    top: 530px;
+    background: #4FFF32;
+    border-radius: 50px;
+    }
+    .p2{
+        position: absolute;
+        left: 390px;
+        top: 520px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        color: #000000;
+}
+}
+@media all and(max-width:600px){
+
+
+}
